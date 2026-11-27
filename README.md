@@ -2,7 +2,7 @@
 
 Download **[Rocket Launch for Windows x64](https://github.com/christmastree4611-dev/rocket-launch-releases/releases/latest/download/RocketLaunch.exe)**. Open the launcher, select **Install**, then **Play**. Rocket Launch verifies each game release and keeps your player data in a separate directory.
 
-**[Download Rocket Cars 1.1.7 for Android (ARM64)](https://github.com/christmastree4611-dev/rocket-launch-releases/releases/download/RocketLaunch-v1.1.7/RocketCars-1.1.7-android-arm64.apk)**. On your phone, open **Profile → Player Account** to sign in with Google or GitHub.
+**[Download Rocket Cars 1.1.8 for Android (ARM64)](https://github.com/christmastree4611-dev/rocket-launch-releases/releases/download/RocketLaunch-v1.1.8/RocketCars-1.1.8-android-arm64.apk)**. On your phone, open **Profile → Player Account** to sign in with Google or GitHub.
 
 ## Use your existing Rocket Cars account
 
